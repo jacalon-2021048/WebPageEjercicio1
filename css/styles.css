@@ -1,5 +1,6 @@
 body{
     background-color: bisque;
+    margin-left: 60px;
 }
 
 .title {
@@ -13,4 +14,9 @@ body{
 
 .kinal {
     text-align: center;
+}
+
+.img-size{
+    width: 750px;
+    height: 550px;
 }
